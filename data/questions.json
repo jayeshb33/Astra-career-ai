@@ -1,0 +1,37 @@
+{
+  "interests": [
+    { "id": 1,  "text": "I enjoy solving tough logical or math problems.", "tag": "analytical" },
+    { "id": 2,  "text": "I like designing interfaces or visuals that look clean and usable.", "tag": "creative" },
+    { "id": 3,  "text": "I like explaining ideas to others through talks, demos, or presentations.", "tag": "communication" },
+    { "id": 4,  "text": "I enjoy building apps or websites from scratch and shipping features.", "tag": "building" },
+    { "id": 5,  "text": "I am curious to experiment, research, and test new tech ideas.", "tag": "research" },
+    { "id": 6,  "text": "I like organizing processes and making systems efficient and reliable.", "tag": "operations" },
+    { "id": 7,  "text": "I enjoy working directly with users or customers to understand needs.", "tag": "customer" },
+    { "id": 8,  "text": "I like securing systems, finding vulnerabilities, and fixing risks.", "tag": "security" },
+    { "id": 9,  "text": "I enjoy working with hardware, devices, sensors, or robots.", "tag": "hardware" },
+    { "id": 10, "text": "I like planning strategy, roadmaps, and prioritizing what to build.", "tag": "product" },
+    { "id": 11, "text": "I enjoy writing docs, blogs, guides, or content.", "tag": "writing" },
+    { "id": 12, "text": "I like marketing and growth ideas: campaigns, SEO, social media.", "tag": "marketing" }
+  ],
+  "personality": [
+    { "id": 101, "text": "I feel energized when I brainstorm with a group.", "dimension": "E" },
+    { "id": 102, "text": "I prefer deep, focused solo work for long stretches.", "dimension": "I" },
+    { "id": 103, "text": "I easily start conversations and enjoy networking events.", "dimension": "E" },
+    { "id": 104, "text": "I need quiet time to recharge after social activities.", "dimension": "I" },
+
+    { "id": 201, "text": "I trust concrete facts, data, and step-by-step methods.", "dimension": "S" },
+    { "id": 202, "text": "I like imagining new possibilities and big-picture ideas.", "dimension": "N" },
+    { "id": 203, "text": "I prefer hands-on experience over theory to learn something.", "dimension": "S" },
+    { "id": 204, "text": "I enjoy spotting patterns and thinking about future impact.", "dimension": "N" },
+
+    { "id": 301, "text": "When deciding, I focus on logic, pros/cons, and objective criteria.", "dimension": "T" },
+    { "id": 302, "text": "When deciding, I consider people's feelings and values.", "dimension": "F" },
+    { "id": 303, "text": "I enjoy debates that challenge assumptions, even if direct.", "dimension": "T" },
+    { "id": 304, "text": "I aim to keep harmony in the team and avoid conflicts.", "dimension": "F" },
+
+    { "id": 401, "text": "I like clear plans, checklists, and hitting deadlines.", "dimension": "J" },
+    { "id": 402, "text": "I prefer flexible schedules and keeping options open.", "dimension": "P" },
+    { "id": 403, "text": "I plan tasks ahead and dislike last-minute changes.", "dimension": "J" },
+    { "id": 404, "text": "I'm comfortable adapting quickly when plans change.", "dimension": "P" }
+  ]
+}
